@@ -29,7 +29,7 @@ npm start
 
 Para modo desenlvedor utilize o ``npm run dev``
 
-Crie um arquivo ``.env.local`` e defina o link da API
+Crie um arquivo ``.env.local`` na pasta raiz do projeto e defina o link da API
 ```bash
 NEXT_PUBLIC_URL_API = http://localhost:8080/graphql
 ```
